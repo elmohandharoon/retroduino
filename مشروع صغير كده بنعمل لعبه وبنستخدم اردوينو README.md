@@ -1,0 +1,3 @@
+# retroduino
+I ain't got an arduino right now, not sure if all the stuff is gonna work. Lelz...
+مشروع صغير كده بنعمل لعبه وبنستخدم اردوينو
